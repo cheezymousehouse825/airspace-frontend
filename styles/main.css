@@ -1,0 +1,49 @@
+p {
+    color: #DEB992;
+}
+
+h3 {
+    color: #D885A3;
+}
+
+h2 {
+    color: #1BA098;
+}
+
+h1 {
+    color: #1BA098;
+}
+
+a {
+    color: #1BA098
+}
+
+.mainDiv {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centerDiv {
+    font-size: 1.3vh;
+    border: 0.4vh solid #1BA098;
+    text-align: center;
+    background-color: #051622;
+    position: relative;
+    padding: 0vh 3vh;
+    border-radius: 1vh;
+    margin-right: 1vh;
+    height: 60vh;
+}
+
+/* TODO: add logo */
+
+body {
+    background-color: #051622;
+}
