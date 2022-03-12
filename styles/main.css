@@ -10,12 +10,13 @@ h2 {
     color: #1BA098;
 }
 
-h1 {
-    color: #1BA098;
-}
-
 a {
     color: #1BA098
+}
+
+img {
+    width: 15vh;
+    height: auto;
 }
 
 .mainDiv {
