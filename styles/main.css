@@ -39,7 +39,8 @@ img {
     position: relative;
     padding: 0vh 3vh;
     border-radius: 1vh;
-    margin-right: 1vh;
+    margin-left: 0.5vh;
+    margin-right: 0.5vh;
     height: 60vh;
 }
 
