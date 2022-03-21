@@ -101,12 +101,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Nginx (I recommend nginx or apache)
   ```sh
   # pacman -S nginx
@@ -182,7 +178,7 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@cheezymh825](https://twitter.com/cheezymh825)
+Vaughn MacIntyre - [@cheezymh825](https://twitter.com/cheezymh825)
 
 Project Link: [https://github.com/cheezymousehouse825/airspace-frontend](https://github.com/cheezymousehouse825/airspace-frontend)
 
